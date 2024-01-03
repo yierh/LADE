@@ -30,8 +30,8 @@ If you find this repository useful for your work, please cite:
   journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
   title={Learning to Learn Evolutionary Algorithm: A Learnable Differential Evolution}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-16},
+  volume={7},
+  number={6},
+  pages={1605-1620},
   doi={10.1109/TETCI.2023.3251441}
   }
