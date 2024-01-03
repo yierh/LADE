@@ -25,6 +25,7 @@ The **trained agent** will be `saved` and the optimization **results** on the te
 
 If you find this repository useful for your work, please cite:
 
+```sh
 @ARTICLE{LADE,
   author={Liu, Xin and Sun, Jianyong and Zhang, Qingfu and Wang, Zhenkun and Xu, Zongben},
   journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
@@ -35,3 +36,4 @@ If you find this repository useful for your work, please cite:
   pages={1605-1620},
   doi={10.1109/TETCI.2023.3251441}
   }
+```
